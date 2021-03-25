@@ -14,6 +14,7 @@ export const NetworkService = proto.NetworkService;
 export const SmartContractService = proto.SmartContractService;
 export const TokenService = proto.TokenService;
 export const ScheduleService = proto.ScheduleService;
+export const ScheduleID = proto.ScheduleID;
 
 export const AccountID = proto.AccountID;
 export const ContractGetInfoResponse = proto.ContractGetInfoResponse;
